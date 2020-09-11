@@ -45,7 +45,7 @@ export default {
     border-top: 2px solid #151c1f;
     height: 100%;
     width: 100%;
-    border-bottom: 2px solid #fff;
+    margin-bottom: 0;
 }
 .project-title {
     text-align: center;

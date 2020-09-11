@@ -4,7 +4,8 @@
     <Home /> 
     <About />
     <Skills />
-    <Project /> 
+    <Project />
+    <Footer /> 
   </div>
 </template>
 
@@ -14,6 +15,7 @@ import Home from './components/home';
 import About from './components/about'; 
 import Skills from './components/skill'; 
 import Project from './components/toyproject'; 
+import Footer from './components/footer'; 
 
 export default {
   name: 'App',
@@ -23,6 +25,7 @@ export default {
     About,
     Skills,
     Project,
+    Footer,
   }
 }
 </script>
