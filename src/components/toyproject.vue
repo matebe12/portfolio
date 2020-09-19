@@ -5,6 +5,17 @@
       </div>
       <div class="row">
           <div class="box">
+             <a href="https://matebe12.github.io/gersang-trade-search/">
+                 <img class="box-image" :src="require('../assets/gersang.png')">
+             </a>
+             <div class="box-info">
+                 <h1>온라인 게임 거상 육의전, 사통팔달 검색 사이트 |  2020.09.11 ~ 2019.09.20</h1>
+                 <span>거상에서 지원하는 api를 활용한 육의전, 사통팔달 검색 사이트</span>
+                 <p>#Vue #Vuex</p>
+                 <a href="https://github.com/matebe12/gersang-trade-search"> <img :src="require('../assets/git.png')" class="git-image"> </a>
+             </div>
+          </div>
+          <div class="box">
              <a href="http://mateshop.duckdns.org">
                  <img class="box-image" :src="require('../assets/shop.png')" alt="쇼핑몰 페이지 방문하기">
              </a>
@@ -17,7 +28,7 @@
              </div>
           </div>
           <div class="box">
-             <a href="https://github.com/matebe12/Dragonball-Game">
+             <a href="https://matebe12.github.io/Dragonball-Game/">
                  <img class="box-image" :src="require('../assets/game.gif')">
              </a>
              <div class="box-info">

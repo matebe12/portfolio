@@ -1,9 +1,10 @@
 <template>
   <footer>
-      <div class="footer">
+      <div class="footer" id="contact">
           <ul>
             <li class="li-f"><a href="https://github.com/matebe12/Dragonball-Game"> <img :src="require('../assets/git.png')" class="git-image"> </a></li>
             <li><span>이 사이트는 개발 포트폴리오 사이트 입니다.</span></li>
+            <li class="email"><span>matebe12@gmail.com</span></li>
           </ul>
           
       </div>
@@ -35,6 +36,9 @@ ul {
     list-style: none;
 }
 ul .li-f {
+    text-align: center;
+}
+.email {
     text-align: center;
 }
 </style>
