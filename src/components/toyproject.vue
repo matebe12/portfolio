@@ -6,7 +6,7 @@
       <div class="row">
           <div class="box">
              <a href="https://github.com/matebe12/animal-find/">
-                 <img class="box-image" :src="require('../assets/gersang.png')">
+                 <img class="box-image" :src="require('../assets/animal.png')">
              </a>
              <div class="box-info">
                  <h1>경기도 지역 유기동물 보호 현황 사이트 |  2020.09.30. ~ 2019.10.18</h1>
