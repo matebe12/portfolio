@@ -2,7 +2,7 @@
   <footer>
       <div class="footer" id="contact">
           <ul>
-            <li class="li-f"><a href="https://github.com/matebe12/Dragonball-Game"> <img :src="require('../assets/git.png')" class="git-image"> </a></li>
+            <li class="li-f"><a href="https://github.com/matebe12"> <img :src="require('../assets/git.png')" class="git-image"> </a></li>
             <li><span>이 사이트는 개발 포트폴리오 사이트 입니다.</span></li>
             <li class="email"><span>matebe12@gmail.com</span></li>
           </ul>

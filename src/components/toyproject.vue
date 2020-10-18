@@ -5,6 +5,17 @@
       </div>
       <div class="row">
           <div class="box">
+             <a href="https://github.com/matebe12/animal-find/">
+                 <img class="box-image" :src="require('../assets/gersang.png')">
+             </a>
+             <div class="box-info">
+                 <h1>경기도 지역 유기동물 보호 현황 사이트 |  2020.09.30. ~ 2019.10.18</h1>
+                 <span>경기도에서 지원하는 api를 활용한 지역별 유기동물 검색 사이트</span>
+                 <p>#Vue #Vuex</p>
+                 <a href="https://github.com/matebe12/animal-find/"> <img :src="require('../assets/git.png')" class="git-image"> </a>
+             </div>
+          </div>
+          <div class="box">
              <a href="https://matebe12.github.io/gersang-trade-search/">
                  <img class="box-image" :src="require('../assets/gersang.png')">
              </a>
